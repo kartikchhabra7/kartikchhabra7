@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nextjs , Zustand**
 
-- 👨‍💻 All of my projects are available at [github.com/kartikchhabra7](github.com/kartikchhabra7)
+- 👨‍💻 All of my projects are available at [***Explore My Projects***](github.com/kartikchhabra7)
 
 - 💬 Ask me about **Reactjs , Redux and Javascript**
 
