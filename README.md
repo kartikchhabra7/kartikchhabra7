@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kartikchhabra026@gmail.com**
 
-- 📄 Know about my experiences <a href="https://in.linkedin.com/in/kartik-chhabra-65a2b822b" target="_blank">***Kartik's LinkedIn Profile***</a>
+- 📄 Know about my experiences [***Kartik's LinkedIn Profile***](https://in.linkedin.com/in/kartik-chhabra-65a2b822b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
